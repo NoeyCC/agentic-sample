@@ -3,7 +3,7 @@ requires = ["setuptools>=42"]
 build-backend = "setuptools.build_metatest"
 
 [project]
-name = "agentic-sample"
+name = "agentic-sampletest"
 version = "0.1.0"
 description = "Research & Brief Generator using Agentic Design Patterns"
 authors = [
